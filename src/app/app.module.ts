@@ -11,6 +11,7 @@ import { WelcomeComponent } from './welcome/welcome.component';
 import { AbcComponent } from './abc/abc.component';
 import { ProductListComponent } from './product-list/product-list.component';
 import { ProductDetailsComponent } from './product-details/product-details.component';
+import { TestComponentComponent } from './test-component/test-component.component';
 
 
 
@@ -21,7 +22,8 @@ import { ProductDetailsComponent } from './product-details/product-details.compo
     WelcomeComponent,
     AbcComponent,
     ProductListComponent,
-    ProductDetailsComponent
+    ProductDetailsComponent,
+    TestComponentComponent
   ],
   imports: [
     BrowserModule,
