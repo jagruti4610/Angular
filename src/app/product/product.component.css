@@ -1,0 +1,53 @@
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  
+  .container
+{
+
+ display: flex;
+ flex-direction: column;
+ margin: 10px 0px;
+
+}
+.container22{
+
+    display: flex;
+    flex-direction: column;
+}
+.container_2
+{
+    height:40px;
+    display: flex;flex-direction: column;
+    justify-content: space-around;
+}
+.header
+{
+    height:40px;
+    display: flex;
+    justify-content: space-around;
+    background-color: darkgray;
+}
+.icon
+{
+    margin: 12px;
+
+}
+.item1
+{
+    margin: 12px;
+}
+.item2
+{
+    margin:12px;
+}
+.item3
+{
+    margin:12px;
+}
